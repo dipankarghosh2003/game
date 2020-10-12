@@ -88,7 +88,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 }
 
 #game-area .gamearea {
-    border: 1px solid red;
+    border: 0px solid red;
     width: 100%;
     position: absolute;
     top: 150px;
